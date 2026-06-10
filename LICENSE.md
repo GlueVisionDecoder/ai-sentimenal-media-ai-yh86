@@ -1,4 +1,4 @@
-# 
+# Open Source AI Sentiment Analysis for Social Media tools. Featuring edge-AI and predictive-analytics — optimized for maximum performance.
 
 
 
